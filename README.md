@@ -1,6 +1,6 @@
 # Zomato-EDA
 
-## 🛠️ Project Overview
+## Project Overview
 This repository performs Exploratory Data Analysis (EDA) on a Zomato restaurant dataset to explore patterns in:
 - Online ordering and table booking availability  
 - Customer ratings and votes  
@@ -29,7 +29,3 @@ The dataset consists of restaurant listings with fields like name, online_order/
 - Patterns observed in online order availability, cost and rating relationships  
 - Visual plots help identify trends in restaurant engagement
 
-
-
-## 📌 License
-(Optional — add a license like MIT if you want)
